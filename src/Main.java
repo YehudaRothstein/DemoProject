@@ -5,6 +5,6 @@ public class Main {
 
 
     public static void printHello(){
-        System.out.println("hello");
+        System.out.println("hi");
     }
 }
